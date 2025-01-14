@@ -1,0 +1,2 @@
+I:\UnityProjects6\zigzag-game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+I:\UnityProjects6\zigzag-game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
