@@ -269,7 +269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   particle: {fileID: 1528310350084966, guid: 53578bcaae08685469378a7135cc69fe, type: 3}
-  speed: 8
+  speed: 6
   fallSpeed: 25
 --- !u!1 &17995570
 GameObject:
